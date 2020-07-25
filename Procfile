@@ -1,0 +1,1 @@
+PrivatCurs: sh target/bin/PrivatCursBot
